@@ -1,0 +1,8 @@
+@media(max-width:767px){
+    /* anything under 768px this styles will kick in */
+    .user-list{
+        justify-content: center !important;
+        margin-top: 20px;
+    }
+
+}
